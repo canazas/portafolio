@@ -1,10 +1,10 @@
 
 # Portafolio
 
-<Hola 👋, soy Willian Canazas</h1>
-Un desarrollador frontend apasionado de Perú</h3>
+Hola 👋, soy Willian Canazas
+Un desarrollador apasionado de Perú
 
-- 🔭 Actualmente estoy trabajando en **Ciencia de datos con pandas**
+- 🔭 Actualmente estoy trabajando en Ciencia de datos con pandas
 
 - 🌱 Actualmente estoy aprendiendo **Ciencia de datos con Python**
 
