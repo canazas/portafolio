@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **wcanazas@unsa.edu.pe**
 
-- 📄 Know about my experiences [My experience starts from the teachings in Python programming of the best professor of computer science of the unsa, Ing. Renzo Bolivar](My experience starts from the teachings in Python programming of the best professor of computer science of the unsa, Ing. Renzo Bolivar)
+- 📄 Know about my experiences [My experience starts from the teachings in Python programming of the best professor of computer science of the unsa, Ing. Renzo Bolivar]
 
 - ⚡ Fun fact **I think i am bored**
 
